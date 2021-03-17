@@ -19,4 +19,4 @@ Electric and Magnetic Fields have a phase difference of 90 degrees (out of phase
 The peaks of the electric and magnetic fields when plotted form a circle
 ![Circular Polarization](https://github.com/Aadiv1999/em-wave-viz/blob/c7c4932068e3c8bd9eea76c51ba62cfe066f4a59/Circular%20Polarization.gif)
 
-Vary ```phi``` to any other number between 0 and pi to change the type of polarization. 
+Vary ```phi``` to any other number between ```0``` and ```pi``` to change the type of polarization. 
